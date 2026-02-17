@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Garbage",
+  "base_artist": "Twenty One Pilots",
+  "createdAt": "2026-02-17T11:57:21.163641Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cheap Idols Dressed in Expensive Garbage",
+      "artist": "John Moreland",
+      "has_synced": false,
+      "path": "select/01_Cheap_Idols_Dressed_in_Expensive_Garbage_John_Moreland.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bad Boyfriend (Garbage Remix)",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/02_Bad_Boyfriend_(Garbage_Remix)_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Garbage - 13 x Forever",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/03_Garbage_-_13_x_Forever_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Garbage - Afterglow",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/04_Garbage_-_Afterglow_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Garbage - Butterfly collector",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/05_Garbage_-_Butterfly_collector_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Garbage - Can´t seem to make you mine",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/06_Garbage_-_Can_́t_seem_to_make_you_mine_Garbage.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Garbage - Deadwood",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/07_Garbage_-_Deadwood_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Garbage - Lick the pavement",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/08_Garbage_-_Lick_the_pavement_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Garbage - Thirteen",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/09_Garbage_-_Thirteen_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Garbage - Tornado",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/10_Garbage_-_Tornado_Garbage.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Garbage - Trip My Wire",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/11_Garbage_-_Trip_My_Wire_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Garbage (Live)",
+      "artist": "Temptation",
+      "has_synced": false,
+      "path": "select/12_Garbage_(Live)_Temptation.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Garbage Ass",
+      "artist": "Lady",
+      "has_synced": true,
+      "path": "select/13_Garbage_Ass_Lady.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Throw That Beat In The Garbage Can",
+      "artist": "The B-52's",
+      "has_synced": true,
+      "path": "select/14_Throw_That_Beat_In_The_Garbage_Can_The_B-52's.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Garbage Heap",
+      "artist": "Black Francis",
+      "has_synced": true,
+      "path": "select/15_Garbage_Heap_Black_Francis.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Garbage",
+      "artist": "Chairlift",
+      "has_synced": true,
+      "path": "select/16_Garbage_Chairlift.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Garbage Truck",
+      "artist": "Sex Bob-Omb",
+      "has_synced": true,
+      "path": "select/17_Garbage_Truck_Sex_Bob-Omb.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Garbage Truck",
+      "artist": "Sex Bob‐Omb",
+      "has_synced": true,
+      "path": "select/18_Garbage_Truck_Sex_Bob‐Omb.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Garbage",
+      "artist": "Twenty One Pilots",
+      "has_synced": false,
+      "path": "select/pl_01_Garbage_Twenty_One_Pilots.txt"
+    }
+  ]
+}
